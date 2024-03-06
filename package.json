@@ -20,7 +20,7 @@
     "typescript": "^5.3.3",
     "typescript-eslint": "^7.1.1"
   },
-  "peerDependencies": {
+  "optionalDependencies": {
     "@google-cloud/storage": "7.x"
   }
 }
