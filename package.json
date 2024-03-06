@@ -1,7 +1,7 @@
 {
-  "name": "npm-package-template",
+  "name": "@som/gcplex",
   "version": "1.0.0",
-  "description": "",
+  "description": "Utility for working with various Google Cloud node.js SDKs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
@@ -10,7 +10,7 @@
     "dev": "tsc -w",
     "lint": "npx eslint ."
   },
-  "author": "",
+  "author": "Jesse Belcourt jesse@stateofmotion.tech",
   "license": "ISC",
   "devDependencies": {
     "@types/eslint__js": "^8.42.3",
