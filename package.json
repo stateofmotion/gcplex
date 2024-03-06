@@ -1,5 +1,5 @@
 {
-  "name": "@som/gcplex",
+  "name": "@stateofmotion/gcplex",
   "version": "1.0.0",
   "description": "Utility for working with various Google Cloud node.js SDKs",
   "main": "dist/index.js",
