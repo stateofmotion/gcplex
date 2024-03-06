@@ -16,7 +16,11 @@
     "@types/eslint__js": "^8.42.3",
     "eslint": "^8.57.0",
     "ts-node": "^10.9.2",
+    "tsx": "^4.7.1",
     "typescript": "^5.3.3",
     "typescript-eslint": "^7.1.1"
+  },
+  "peerDependencies": {
+    "@google-cloud/storage": "7.x"
   }
 }
